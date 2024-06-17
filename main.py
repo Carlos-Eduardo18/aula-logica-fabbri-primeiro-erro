@@ -20,4 +20,5 @@ else:
   print(f"O resultado de {a} / {b} é {res}")
 finally:
   print("A prática leva a perfeição. \nContinue assim...\o/")
-  
+
+# Adicionado o git e o github aqui
